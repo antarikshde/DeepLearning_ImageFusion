@@ -13,7 +13,7 @@ import os
 IS_TRAINING = False
 IS_TEST_RGB = True
 BATCH_SIZE = 4
-EPOCHES = 1
+EPOCHES = 50
 
 MODEL_SAVE_PATHS = [
     './models/densefuse_gray/densefuse_model_bs2_epoch4_all_weight_1e2.ckpt',
